@@ -1,4 +1,4 @@
-# ABOUT ME 
+
 Hi 👋 My name is Tanay Vaswani
 ==============================
 
