@@ -42,8 +42,6 @@ I've been working in this industry for 3 years, after switching a lot of domains
                     
                    Socials
                   
-                  
-                <p align="left">
                           
                       <a href="https://www.dev.to/tanayvaswani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
                           
