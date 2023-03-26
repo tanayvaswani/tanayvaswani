@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Tanay Vaswani
+Hi 👋 I'm Tanay Vaswani
 ==============================
 
 Backend Developer & DevOps Enthusiast
