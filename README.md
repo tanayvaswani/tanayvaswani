@@ -7,7 +7,7 @@ Backend Developer & DevOps Enthusiast
 
 I've been working in this industry for 3 years, after switching a lot of domains I found my interests in the backend development. I started with HTML and CSS but later switched to the server-side development part along with the basic knowledge of DevOps. I usually focus on nourishing my skills every day and learning new tech stacks whenever necessary.
 
-* 🌍  I'm based in New Delhi
+* 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [Tanay Vaswani](http://tanayvaswani.bio.link)
 * ✉️  You can contact me at [vaswani.tanay9@gmail.com](mailto:vaswani.tanay9@gmail.com)
 * 🚀  I'm currently working on [Frontend Development](http://github.com/tanayvaswani/frontend-dev)
