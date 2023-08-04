@@ -7,7 +7,7 @@ I've been working in this industry constantly for an year now, after exploring a
 
 *   Based in New Delhi, India.
 *   See my portfolio at [Tanay Vaswani](http://tanayvaswani.bio.link)
-*   You can contact me at [Email](mailto:vaswani.tanay9@gmail.com) or [Twitter](https://www.twitter.com/iTanayVaswani)
+*   You can contact me on [Email](mailto:vaswani.tanay9@gmail.com) or [Twitter](https://www.twitter.com/iTanayVaswani)
 *   I'm learning about Microservices, Distributed tracing & Elasticsearch as of now.
 
 ### Skills
