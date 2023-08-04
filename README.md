@@ -14,9 +14,9 @@ I've been working in this industry constantly for an year now, after exploring a
 
 - Languages: Javascript, GoLang, Java 
 - Frameworks/Libraries: Node.js/Express.js, React.js, Gorilla/Mux, Gin, gRPC.
-- Tools: Git CLI, VS Code Editor, Docker Engine, GitHub Actions, WSL, Bash, Zsh, Kubernetes Client. 
+- Tools: Git CLI, VS Code Editor, Docker Engine, Postman API, ThunderClient, Dev Containers, GitHub Actions, WSL, Bash, Zsh, Kubernetes Client. 
 - Platforms: GitHub, AWS.
-- Databases: 
+- Databases: MongoDB, PostgreSQL.
 
 ### Socials
 
