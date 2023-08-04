@@ -22,5 +22,5 @@ I've been working in this industry constantly for an year now, after exploring a
 
 - Connect with me on [Twitter](https://www.twitter.com/iTanayVaswani).
 - Add me on [LinkedIn](https://www.linkedin.com/in/tanayvaswani).
-- [Hashnode(Blogs)](https://tanayvaswani.hashnode.dev).
+- Checkout my blogs on [Hashnode](https://tanayvaswani.hashnode.dev).
 - Visit my [Portfolio](https://tanayvaswani.bio.link)!
