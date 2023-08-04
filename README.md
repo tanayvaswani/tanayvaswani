@@ -1,9 +1,7 @@
 
-Hi! I'm Tanay 👋
-==============================
+# Hey! I'm Tanay 👋
 
-Backend Developer | DevOps & Cloud Enthusiast
--------------------------------------
+## Backend Developer | DevOps & Cloud Enthusiast
 
 I've been working in this industry constantly for an year now, after exploring a lot of domains I found my interests in the backend development. I started with frontend and later switched to the server-side development along with some knowledge of DevOps tools. 
 
@@ -20,12 +18,9 @@ I've been working in this industry constantly for an year now, after exploring a
 - Platforms: GitHub, AWS.
 - Databases: 
 
-
 ### Socials
 
-<p align="centre">
-    <a href="https://www.github.com/tanayvaswani" target="_blank" rel="noreferrer">GitHub<</a> 
-    <a href="https://tanayvaswani.hashnode.dev" target="_blank" rel="noreferrer">Hashnode(My Blogs)</a> 
-    <a href="https://www.linkedin.com/in/tanayvaswani" target="_blank" rel="noreferrer">LinkedIn</a> 
-    <a href="https://www.twitter.com/iTanayVaswani" target="_blank" rel="noreferrer">Twitter/X</a>
-</p>
+- Connect with me on [Twitter](https://www.twitter.com/iTanayVaswani).
+- Add me on [LinkedIn](https://www.linkedin.com/in/tanayvaswani).
+- [Hashnode(Blogs)](https://tanayvaswani.hashnode.dev).
+- Visit my [Portfolio](https://tanayvaswani.bio.link)!
