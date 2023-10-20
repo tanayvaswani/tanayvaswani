@@ -1,26 +1,25 @@
+## Hey! I'm Tanay 👋
 
-# Hey! I'm Tanay 👋
+## Backend Engineer | Full Stack Developer | Javascript/Typescript
 
-## Backend Developer | DevOps & Cloud Enthusiast
+Working constantly for almost an year now, after exploring a lot of domains I found my interest in JavaScript/TypeScript stack.
 
-I've been working in this industry constantly for an year now, after exploring a lot of domains I found my interests in the backend development. I started with frontend and later switched to the server-side development along with some knowledge of DevOps & Cloud Native tools. 
-
-*   Based in **New Delhi, India**.
-*   See my portfolio at [**Tanay Vaswani**](http://tanayvaswani.bio.link).
-*   You can contact me on [**Email**](mailto:vaswani.tanay9@gmail.com) or [**Twitter**](https://www.twitter.com/iTanayVaswani).
-*   I'm learning about **Microservices**, **Distributed tracing** & **Elasticsearch** as of now.
+- Based in **New Delhi, India**.
+- See my portfolio at [**Tanay Vaswani**](http://tanayvaswani.bio.link).
+- You can contact me on [**Email**](mailto:vaswani.tanay9@gmail.com) or [**Twitter**](https://www.twitter.com/iTanayVaswani).
+- I'm learning **Next.js, Prisma, tRPC, TailwindCSS/daisyUI** nowadays!  
 
 ### Skills
 
-- **Languages**: Javascript, GoLang, Java.
-- **Frameworks/Libraries**: Node.js/Express.js, React.js, Gorilla/Mux, Gin, gRPC.
-- **Tools**: Git CLI, VS Code Editor, Docker Engine, Postman API, ThunderClient, Dev Containers, GitHub Actions, WSL, Bash, Zsh, Kubernetes Client. 
+- **Languages**: Javascript/TypeScript, GoLang, Java.
+- **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js, gRPC.
+- **Tools**: Docker Engine, Postman API, Bash, Zsh. 
 - **Platforms**: GitHub, AWS.
-- **Databases**: MongoDB, PostgreSQL.
+- **Databases**: MongoDB, PostgreSQL, Planetscale, MySQL.
+- **ORM**: Prisma, Mongoose, Drizzle.
+- **Misc**: Redis, Apache Kafka, Nginx, GraphQL.
 
 ### Socials
 
 - Connect with me on [**Twitter**](https://www.twitter.com/iTanayVaswani).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/tanayvaswani).
-- Checkout my blogs on [**Hashnode**](https://tanayvaswani.hashnode.dev).
-- Visit my [**Portfolio**](https://tanayvaswani.bio.link)!
