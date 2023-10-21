@@ -21,5 +21,5 @@ Working constantly for almost an year now, after exploring a lot of domains I fo
 
 ### Socials
 
-- Connect with me on [**Twitter**](https://www.twitter.com/iTanayVaswani).
+- Connect with me on [**X**](https://www.twitter.com/iTanayVaswani).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/tanayvaswani).
