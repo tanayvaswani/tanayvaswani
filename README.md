@@ -1,4 +1,4 @@
-## Hey! I'm Tanay 👋
+## Hey! I'm Tanay👋🏼
 
 ## Backend Engineer | Full Stack Developer | Javascript/Typescript
 
