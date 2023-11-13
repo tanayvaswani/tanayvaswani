@@ -1,6 +1,6 @@
 ## Hey! I'm Tanay👋🏼
 
-## Backend Engineer | Full Stack Developer | Javascript/Typescript
+## Software Engineer | Full Stack Developer 
 
 Working constantly for almost an year now, after exploring a lot of domains I found my interest in JavaScript/TypeScript stack.
 
