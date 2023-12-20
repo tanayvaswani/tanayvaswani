@@ -18,7 +18,7 @@ Working constantly for almost an year now, after exploring a lot of technologies
 - **Platforms**: GitHub, AWS.
 - **Databases**: MongoDB, PostgreSQL, Supabase, MySQL, Planetscale.
 - **ORM**: Prisma, Mongoose.
-- **Misc**: Redis, Apache Kafka, Nginx, GraphQL, Framer Motion, HeadlessCMS, TailwindCSS, ShadcnUI... 
+- **Misc**: Redis, Apache Kafka, Nginx, GraphQL, Framer Motion, HeadlessCMS, TailwindCSS, ShadcnUI.
 
 ### Socials
 
