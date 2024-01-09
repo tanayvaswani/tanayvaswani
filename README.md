@@ -1,6 +1,6 @@
 ## Hey! I'm Tanay👋🏼
 
-## Software Engineer | Backend & Full Stack Developer 
+## Software Engineer | Full Stack Developer  
 
 - Based in **New Delhi, India**.
 - See my portfolio at [**Tanay Vaswani**](https://dub.sh/tanay).
