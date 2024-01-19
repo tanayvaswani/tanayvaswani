@@ -26,7 +26,7 @@
 
 ## Projects 
 
-- Below is the list of project(s) I'm working on or I've worked on.
+**Below is the list of project(s) I'm working on or I've worked on.**
 
 ### 1. [**frello.**](https://github.com/tanayvaswani/frello) (working)
 
