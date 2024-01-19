@@ -41,10 +41,10 @@
 
 - Task manager application with the option of managing tasks under each organizations.
 - Auth and management of everthing using middleware functions provided by NextAuth.
-- Saas UI designing using TailwindCSS, ShadcnUI(RadixUI) components.
+- Saas UI designing & animations using TailwindCSS, ShadcnUI(RadixUI) components, Framer Motion.
 - Prisma models and functions for managing database operations.
 - Supabase as a free PostgreSQL cloud provider.
-- **Skills**: Javascript/Typescript, Next.js, Server Actions, Prisma, PostgreSQL(Supabase), NextAuth, TailwindCSS, ShadcnUI.
+- **Skills**: Javascript/Typescript, Next.js, Server Actions, Prisma, PostgreSQL(Supabase), NextAuth, TailwindCSS, ShadcnUI, Framer Motion.
 
 ### 3. [**Contacts Manager**](https://github.com/tanayvaswani/cms-js)
 
