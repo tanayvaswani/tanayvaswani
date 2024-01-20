@@ -39,7 +39,7 @@
 
 ### 2. [**medoff.**](https://github.com/tanayvaswani/medoff) (working)
 
-- Task manager application with the option of managing tasks under each organizations.
+- AI doctor SaaS app designed to revolutionize the way you manage and monitor your health.
 - Auth and management of everthing using middleware functions provided by NextAuth.
 - Saas UI designing & animations using TailwindCSS, ShadcnUI(RadixUI) components, Framer Motion.
 - Prisma models and functions for managing database operations.
