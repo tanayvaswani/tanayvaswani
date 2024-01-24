@@ -34,7 +34,7 @@
 - Auth and management of everthing using middleware functions provided by ClerkAuth.
 - Saas UI designing using TailwindCSS, ShadcnUI(RadixUI) components.
 - Prisma models and functions for managing database operations.
-- Planetscale as a free MySQL cloud provider.
+- Planetscale as a MySQL cloud provider.
 - **Skills**: Javascript/Typescript, Next.js, Server Actions, Prisma, MySQL(Planetscale), ClerkAuth, TailwindCSS, ShadcnUI.
 
 ### 2. [**medoff.**](https://github.com/tanayvaswani/medoff) (working)
@@ -43,7 +43,7 @@
 - Auth and management of everthing using middleware functions provided by NextAuth.
 - Saas UI designing & animations using TailwindCSS, ShadcnUI(RadixUI) components, Framer Motion.
 - Prisma models and functions for managing database operations.
-- Supabase as a free PostgreSQL cloud provider.
+- Supabase as a PostgreSQL cloud provider.
 - **Skills**: Javascript/Typescript, Next.js, Server Actions, Prisma, PostgreSQL(Supabase), NextAuth, TailwindCSS, ShadcnUI, Framer Motion.
 
 ### 3. [**Contacts Manager**](https://github.com/tanayvaswani/cms-js)
@@ -53,7 +53,7 @@
 - MVC architecture for better structuring and managing files.
 - Custom authentication implementation using JWT and bCrypt for password hashing.
 - Mongoose models and functions for managing database operations.
-- Atlas as a free MongoDB cloud provider.
+- Atlas as a MongoDB cloud provider.
 - **Skills**: Javascript, Node.js, Express.js, REST APIs, JSON Web Tokens, bCrypt, Mongoose, MongoDB.
 
 ![](https://komarev.com/ghpvc/?username=tanayvaswani&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=2400)
