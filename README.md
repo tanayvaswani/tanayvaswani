@@ -1,12 +1,12 @@
 # Hey! I'm Tanay👋🏼
 
-## Software Engineer | Full Stack Developer  
+## Software Engineer | Full Stack Developer 
 
 - Based in **New Delhi, India**.
 - See my portfolio at [**Tanay Vaswani**](https://dub.sh/tanayvaswani).
 - Reach out to me [**Email**](mailto:vaswani.tanay9@gmail.com) or [**X/Twitter**](https://www.twitter.com/iTanayVaswani).
-- Working with **Amazon Web Services(AWS), Containers, Redis, RabbitMQ, Node.js & GoLang** nowadays!
-- Diving deep into **Backend Engineering & System Design**.
+- Exploring **Langchain, LlamaIndex, Pinecone, Python** nowadays!
+- Diving deep into **Cloud & Backend Systems Engineering**.
 
 ## Skills
 
