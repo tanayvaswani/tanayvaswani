@@ -8,15 +8,14 @@
 - Working with **Next.js, Typescript, TailwindCSS, Shadcn UI** nowadays!
 - Diving deep into **AWS Cloud & Backend Engineering**.
 
-## Skills/Tech-Stack
+## Tools & Technologies
 
-- **Languages**: Javascript/TypeScript, Python, GO.
-- **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js, tRPC, gRPC.
-- **Tools**: Docker, Postman, Bash, Zsh. 
+- **Languages**: C, C++, Javascript/TypeScript, Python, GO.
+- **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js, tRPC, gRPC, Langchain, FastAPI. 
 - **Platforms**: GitHub, AWS, Vercel, Cloudflare.
-- **Databases**: MongoDB, PostgreSQL, Supabase, MySQL, Planetscale, NeonDB.
-- **ORM**: Prisma, Mongoose, GORM.
-- **Misc**: Redis, RabbitMQ, Nginx, Turborepo, TailwindCSS, Zustand.
+- **Databases**: MongoDB, PostgreSQL, Supabase, MySQL.
+- **ORM**: Prisma, Mongoose.
+- **Misc**: Docker, Redis, RabbitMQ, Nginx, Kubernetes, Github Actions, Turborepo, TailwindCSS, Zustand.
 
 ## Socials
 
