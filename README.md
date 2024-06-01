@@ -6,7 +6,7 @@
 - See my portfolio at [**Tanay Vaswani**](https://dub.sh/tanayvaswani).
 - Reach out to me [**Email**](mailto:vaswani.tanay9@gmail.com) or [**X/Twitter**](https://www.twitter.com/iTanayVaswani).
 - Working with **Next.js, Typescript, TailwindCSS, Shadcn UI, FastAPI, Docker** nowadays!
-- Exploring **Machine Learning & Artificial Intelligence**.
+- Exploring **Artificial Intelligence, Machine Learning & MLOps**.
 
 ## Tools & Technologies
 
