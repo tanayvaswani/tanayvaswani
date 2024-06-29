@@ -1,6 +1,6 @@
 # Hey! I'm Tanay👋🏼
 
-## Software Engineer
+## Software Engineer | AI - Backend, Mathematics & Ops
 
 - Based in **New Delhi, India**.
 - See my portfolio at [**Tanay Vaswani**](https://dub.sh/tanayvaswani).
