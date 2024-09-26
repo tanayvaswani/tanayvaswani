@@ -1,4 +1,4 @@
-20 years old Programmer 
+swe ⠙ 21 ┃ T() ┃ [know more](https://dub.sh/tanayvaswani)
 
 - [**X/Twitter**](https://www.twitter.com/iTanayVaswani)
 - [**LinkedIn**](https://www.linkedin.com/in/tanayvaswani)
