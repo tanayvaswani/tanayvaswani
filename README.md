@@ -1,7 +1,3 @@
-swe ⠙ 21 ┃ [know more](https://dub.sh/tanayvaswani)
+21, Software Engineer (AI, Data & LLMOps) at TurboML, Inc.
 
-- [**X/Twitter**](https://www.twitter.com/iTanayVaswani)
-- [**LinkedIn**](https://www.linkedin.com/in/tanayvaswani)
-- [**Dub**](https://dub.sh/tanay)
-
-![](https://komarev.com/ghpvc/?username=tanayvaswani&color=blue&style=for-the-badge&label=PROFILE+VIEWS&base=2400)
+[tanay.site](https://tanay.site)
